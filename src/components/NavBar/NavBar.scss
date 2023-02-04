@@ -37,10 +37,14 @@
         .right{
             display: flex;
             align-items:center;
+            height: 100%;
+
 
             .icon{
                 margin: 0px 15px;
                 cursor: pointer;
+                font-size: 24px;
+                size: 24px;
             }
 
             img{
